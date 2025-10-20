@@ -14,5 +14,6 @@ This my blog: https://www.maiicy.top/ 🥰
 
 Contact me: Maiicy@Foxmail.com 📧
 
-[![madneal's github stats](https://github-stats.maiicy.top/api?username=Mai-icy&show_icons=true&theme=radical)](https://github.com/Mai-icy)
+[![Maiicy's github stats](https://github-stats.maiicy.top/api?username=Mai-icy&show_icons=true&theme=radical)](https://github.com/Mai-icy)
+
 
